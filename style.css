@@ -262,3 +262,33 @@ header #navbar {
     padding-bottom: 25px;
 }
 
+
+
+.footer-content{
+    width: 1300px;
+    max-width: 1600px;
+    padding: 80px ;
+    margin: 0 auto;
+    margin-top: 120px;
+    text-align: center;
+    background-color: #012245;
+}
+
+.footer-logo{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-container h3{
+    font-size: 16px;
+    font-weight: 500;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+} 
+
+
+.end{
+    font-size: 16px;
+    color: #FAFAFA;
+    padding: 194px 20px 0;
+  }
