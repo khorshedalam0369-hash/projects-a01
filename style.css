@@ -134,3 +134,56 @@ header #navbar {
   cursor: pointer;
 }
 
+
+#note-section .title-des {
+  height: 153px;
+  text-align: center;
+}
+
+#note-section .title-des h2 {
+  font-size: 48px;
+  font-weight: bold;
+  color: #001931;
+  padding-top: 50px;
+}
+
+#note-section .title-des p {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 20px;
+  color: #627382;
+  padding-top: 14px;
+}
+
+#note-section .card-box {
+  display: flex;
+  gap: 24px;
+  padding: 0 120px;
+}
+
+#note-section .card-box .card {
+  text-align: center;
+  padding: 69.5px 24px;
+}
+
+#note-section .card-box .card i {
+  background-color: #ff7c7c;
+  color: white;
+  padding: 16px 13px;
+  font-size: 25px;
+  border-radius: 100px;
+}
+
+#note-section .card-box .card h4 {
+  margin-top: 16px;
+  font-size: 24px;
+  font-weight: 600;
+  color: #001931;
+}
+
+#note-section .card-box .card p {
+  font-size: 18px;
+  line-height: 20px;
+  color: #627382;
+  margin-top: 15px;
+}
