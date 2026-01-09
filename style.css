@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  
+}
+
+body {
+  font-family: Inter;
+}
+
+.btn {
+  background-color: #30b868;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 12px 16px;
+  border: 1px solid #30b868;
+  border-radius: 4px;
+  height: 44px;
+  cursor: pointer;
+}
+
+header #navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+#navbar .logo {
+  margin: 16px 0 16px 120px;
+}
+
+
+#navbar .menu {
+  margin: 34px 0;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 152%;
+}
+
+#navbar .menu ul li {
+  list-style: none;
+  display: inline;
+  margin-right: 30px;
+}
+
+#navbar .menu ul li a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.erly-access-btn {
+  margin: 24px 120px 24px 0;
+}
+
+
+#banner-section .banner {
+  background-image: url("./assets/hero-bg.png");
+  height: 674px;
+}
+
+.earrly-access-btn{
+  padding: 115px 580px 0 580px;
+}
+
+.early-btn {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px 24px 12px 12px;
+  border-radius: 999px; 
+  border: none;
+  background: white;
+  font-size: 16px;
+  font-weight: 600;
+  color:green;
+  cursor: pointer;
+  margin-left: 120px;
+}
+
+.icon {
+  width: 28px;
+  height: 28px;
+  background: #dff3e9;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.icon .dot {
+  width: 10px;
+  height: 10px;
+  background: green;
+  border-radius: 50%;
+}
+
+
+#banner-section .htd-area h1 {
+  margin: 16px 0;
+  text-transform: capitalize;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 84px;
+  color: #ffffff;
+  text-align: center;
+}
+
+#banner-section .htd-area h1 span {
+  color: green;
+}
+
+#banner-section .htd-area p {
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffffff;
+  text-align: center;
+}
+
+#banner-section .btn-area {
+  margin: 32px 567.5px 0 567.5px;
+  display: flex;
+  gap: 16px;
+}
+
+#banner-section .btn-area .btn-1 {
+  background-color: transparent;
+  color: #ffffff;
+  font-size: 16px;
+  font-weight: 600;
+  padding: 12px 16px;
+  border: 1px solid #ffffff;
+  border-radius: 4px;
+  height: 44px;
+  cursor: pointer;
+}
+
