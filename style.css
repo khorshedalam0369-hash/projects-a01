@@ -187,3 +187,47 @@ header #navbar {
   color: #627382;
   margin-top: 15px;
 }
+
+
+
+.circle-section{
+    padding: 120px 0 0 0;
+    width: 1300px;
+    max-width: 1600px;
+    margin: 0 auto;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    gap: 50px;
+    background-color: #ffffff;
+}
+
+
+.solution{
+    margin: 150px 50px;
+    text-align: left;
+    
+}
+
+.span{
+    font-size: 16px;
+    font-weight: 600;
+    color: #469165;
+    margin-bottom: 14px;
+}
+
+.solution h1{
+    font-size: 48px;
+    font-weight: bold;
+    color: #001931;
+    margin-bottom: 75px;
+}
+
+.solution ul{
+   list-style: none;
+    
+}
+
+.solution li{
+    line-height: 20px;
+}
